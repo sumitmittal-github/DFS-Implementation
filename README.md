@@ -1,6 +1,6 @@
-# Tempo Software technical assignment
+# DFS (Depth-First-Search) Problem
 
-<p>A <tt>com.tempo.Hierarchy</tt> stores an arbitrary <em>forest</em> (an ordered collection of ordered trees)
+<p>A <tt>com.sumit.Hierarchy</tt> stores an arbitrary <em>forest</em> (an ordered collection of ordered trees)
 as an array indexed by DFS-order traversal.
 A node is represented by a unique ID.
 Parent-child relationships are identified by the position in the array and the associated depth.
