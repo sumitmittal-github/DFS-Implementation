@@ -1,4 +1,4 @@
-package com.tempo;
+package com.sumit;
 
 public class ArrayBasedHierarchy implements Hierarchy {
     private final int[] myNodeIds;
